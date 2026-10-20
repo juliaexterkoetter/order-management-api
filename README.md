@@ -1,10 +1,10 @@
-# Spring Boot Bug Fix Lab
+# Order Management API
 
-A small Java REST API demonstrating how to reproduce, diagnose, and fix Spring Boot bugs with regression tests. This is a controlled portfolio exercise, not a client production incident.
+A Java REST API for managing customers, products, and orders, featuring business-rule validation, transactional operations, automated testing, and API documentation. The project also includes three documented debugging and regression-testing scenarios.
 
 **29 passing tests · Three documented fixes · 98.90% line coverage · Docker and Swagger verified**
 
-## What this project demonstrates
+## Project overview
 
 Traceable debugging: functional baseline → controlled bugs → failing regression tests → minimal fixes → green suite → coverage → Swagger → Docker. Historical commits and real HTTP results preserve the evidence behind each milestone.
 
